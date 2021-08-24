@@ -5,6 +5,9 @@
 - 📹 Снимаю че попало в [<img src="./tiktok-logo.svg"/>](https://www.tiktok.com/@_vodkar);
 - 🕹️ 3к мусорка в [доте](https://www.dotabuff.com/players/115131311).
 
+### Мои книжки
+[Что-то прочитал, а что-то в процессе](BOOKS.md)
+
 ### Тэги
 ![python](https://img.shields.io/badge/python%20-%23FFD946.svg?&style=for-the-badge&logo=python)
 ![GraphQL](https://img.shields.io/badge/GraphQL%20-%2311085A.svg?&style=for-the-badge&logo=graphql)
