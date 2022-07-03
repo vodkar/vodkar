@@ -10,7 +10,7 @@
 ### Links
 
 [<img src="./tiktok-logo.svg"/>](https://www.tiktok.com/@_vodkar)
-[<img src="./LeetCode_logo_black.png"/>](https://leetcode.com/vodkar/)
+[<img src="./LeetCode_logo_black.png"  width="50" height="50"/>](https://leetcode.com/vodkar/)
 
 ### Tags
 
