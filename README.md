@@ -3,7 +3,7 @@
 - 🐱‍💻 Raising IT in construction field 🌉
 - 🐍 Like Python and GraphQL 🌌
 
-### Links
+### Links 🔗
 
 ![](https://img.shields.io/badge/TikTok-FFFFFF?style=for-the-badge&logo=TikTok&logoWidth=0&logoColor=black&link=https://www.tiktok.com/@_vodkar)
 ![](https://img.shields.io/badge/LeetCode-FFFFFF?style=for-the-badge&logo=leetcode&logoWidth=0&link=https://leetcode.com/vodkar/)
