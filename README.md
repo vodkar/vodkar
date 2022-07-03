@@ -1,6 +1,6 @@
 ### About me 👋
 - 🕵️‍♂️ Computer security specialist 🔐
-- 🐱‍💻 Raising IT in construction field 🌉
+- 🐱‍💻 Raising IT in construction field :rage3:
 - 🐍 Like Python and GraphQL 🌌
 
 ### Links 🔗
