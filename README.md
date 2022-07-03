@@ -1,15 +1,19 @@
 ### About me 👋
-- 👨‍🎓 Currently, I'm studying on Computer Security specialty 🔐
-- 🐱‍💻 Raising IT in construction!🌉
+- 🕵️‍♂️ Computer security specialist 🔐
+- 🐱‍💻 Raising IT in construction! 🌉
 - 🐍 I like Python and GraphQL 🌌
-- 👀 Checkout my [LeetCode profile](https://leetcode.com/boombarah/)
-- 📹 Shooting some strange videos at [<img src="./tiktok-logo.svg"/>](https://www.tiktok.com/@_vodkar);
-- 🕹️ 2,5k trash in [Dota 2](https://www.dotabuff.com/players/115131311).
 
 ### My books
+
 [Books](BOOKS.md)
 
+### Links
+
+[<img src="./tiktok-logo.svg"/>](https://www.tiktok.com/@_vodkar)
+[<img src="./LeetCode_logo_black.png"/>](https://leetcode.com/vodkar/)
+
 ### Tags
+
 ![python](https://img.shields.io/badge/Python%20-%23FFD946.svg?&style=for-the-badge&logo=python) ![go](https://img.shields.io/badge/go%20-%23003F6A.svg?&style=for-the-badge&logo=go) 
 ![Postgres](https://img.shields.io/badge/PostgreS%20-%23DBDBDB.svg?&style=for-the-badge&logo=postgresql)
 ![GraphQL](https://img.shields.io/badge/GraphQL%20-%2311085A.svg?&style=for-the-badge&logo=graphql)
