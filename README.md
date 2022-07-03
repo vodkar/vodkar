@@ -3,23 +3,27 @@
 - 🐱‍💻 Raising IT in construction! 🌉
 - 🐍 I like Python and GraphQL 🌌
 
+### Links
+
+![](https://img.shields.io/badge/TikTok-FFFFFF?style=for-the-badge&logo=TikTok&logoWidth=0&logoColor=black&link=https://www.tiktok.com/@_vodkar)
+![](https://img.shields.io/badge/LeetCode-FFFFFF?style=for-the-badge&logo=leetcode&logoWidth=0&link=https://leetcode.com/vodkar/)
+
 ### My books
 
 [Books](BOOKS.md)
 
-### Links
+### My langs
 
-[<img src="./tiktok-logo.svg"/>](https://www.tiktok.com/@_vodkar)
-[<img src="./LeetCode_logo_black.png"  width="50" height="50"/>](https://leetcode.com/vodkar/)
+![python](https://img.shields.io/badge/python-Middle+-important?&style=for-the-badge&logo=python&labelColor=FFFFFF)
+<br>
+![go](https://img.shields.io/badge/golang-Junior-success?&style=for-the-badge&logo=go&labelColor=FFFFFF)
+<br>
+![](https://img.shields.io/badge/JavaScript-Junior-success?&style=for-the-badge&logo=JavaScript&labelColor=FFFFFF)
 
-### Tags
+### Other technologies
 
-![python](https://img.shields.io/badge/Python%20-%23FFD946.svg?&style=for-the-badge&logo=python) ![go](https://img.shields.io/badge/go%20-%23003F6A.svg?&style=for-the-badge&logo=go) 
-![Postgres](https://img.shields.io/badge/PostgreS%20-%23DBDBDB.svg?&style=for-the-badge&logo=postgresql)
-![GraphQL](https://img.shields.io/badge/GraphQL%20-%2311085A.svg?&style=for-the-badge&logo=graphql)
-![Flask](https://img.shields.io/badge/Flask%20-%23333333.svg?&style=for-the-badge&logo=flask)
-![Django](https://img.shields.io/badge/Django%20-%230C4B33.svg?&style=for-the-badge&logo=django)
-![Aiohttp](https://img.shields.io/badge/aiohttp-0FC0FC.svg?&style=for-the-badge&logo=aiohttp)
-![Swagger](https://img.shields.io/badge/Swagger%20-%23FF5126.svg?&style=for-the-badge&logo=swagger)
-![Jenkins](https://img.shields.io/badge/Jenkins-E4D96F.svg?&style=for-the-badge&logo=Jenkins)
-![Ansible](https://img.shields.io/badge/Ansible-000000.svg?&style=for-the-badge&logo=Ansible)
+| Frameworks | Databases | CI/CD |
+| :---: | :---: | :---: |
+| ![Django](https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django)  ![Aiohttp](https://img.shields.io/badge/aiohttp-285BB5?style=for-the-badge&logo=aiohttp) <br>![Flask](https://img.shields.io/badge/Flask%20-%23333333.svg?&style=for-the-badge&logo=flask&logoWidth=24) ![GraphQL](https://img.shields.io/badge/GraphQL-DE33A6?&style=for-the-badge&logo=graphql) | ![Postgres](https://img.shields.io/badge/PostgreS-DBDBDB?labelColor=&style=for-the-badge&logo=postgresql) | ![Ansible](https://img.shields.io/badge/Ansible-000000.svg?&style=for-the-badge&logo=Ansible) ![Jenkins](https://img.shields.io/badge/Jenkins-E4D96F.svg?&style=for-the-badge&logo=Jenkins) |
+
+
