@@ -1,7 +1,7 @@
 ### About me 👋
 - 🕵️‍♂️ Computer security specialist 🔐
-- 🐱‍💻 Raising IT in construction! 🌉
-- 🐍 I like Python and GraphQL 🌌
+- 🐱‍💻 Raising IT in construction field 🌉
+- 🐍 Like Python and GraphQL 🌌
 
 ### Links
 
@@ -24,6 +24,6 @@
 
 | Frameworks | Databases | CI/CD |
 | :---: | :---: | :---: |
-| ![Django](https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django)  ![Aiohttp](https://img.shields.io/badge/aiohttp-285BB5?style=for-the-badge&logo=aiohttp) <br>![Flask](https://img.shields.io/badge/Flask%20-%23333333.svg?&style=for-the-badge&logo=flask&logoWidth=24) ![GraphQL](https://img.shields.io/badge/GraphQL-DE33A6?&style=for-the-badge&logo=graphql) | ![Postgres](https://img.shields.io/badge/PostgreS-DBDBDB?labelColor=&style=for-the-badge&logo=postgresql) | ![Ansible](https://img.shields.io/badge/Ansible-000000.svg?&style=for-the-badge&logo=Ansible) ![Jenkins](https://img.shields.io/badge/Jenkins-E4D96F.svg?&style=for-the-badge&logo=Jenkins) |
+| ![Django](https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&labelColor=FFFFFF&logoColor=0C4B33)![Aiohttp](https://img.shields.io/badge/aiohttp-285BB5?style=for-the-badge&logo=aiohttp&labelColor=FFFFFF&logoColor=285BB5)<br>![Flask](https://img.shields.io/badge/Flask-333333?style=for-the-badge&logo=flask&labelColor=FFFFFF&logoColor=333333) ![GraphQL](https://img.shields.io/badge/GraphQL-DE33A6?style=for-the-badge&logo=graphql&labelColor=FFFFFF&logoColor=DE33A6) | ![](https://img.shields.io/badge/MongoDb-47A248?style=for-the-badge&logo=mongodb&labelColor=FFFFFF&logoColor=47A248)<br>![Postgres](https://img.shields.io/badge/PostgreS-31648C?style=for-the-badge&logo=postgresql&labelColor=FFFFFF&logoColor=31648C) | ![Jenkins](https://img.shields.io/badge/Jenkins-CC3631?style=for-the-badge&logo=Jenkins&labelColor=FFFFFF&logoColor=CC3631)<br>![Ansible](https://img.shields.io/badge/Ansible-191817?style=for-the-badge&logo=Ansible&labelColor=FFFFFF&logoColor=191817)  |
 
 
