@@ -1,9 +1,9 @@
-### About me 👋
+### 👋 About me 
 - 🕵️‍♂️ Computer security specialist 🔐
 - 🐱‍💻 Raising IT in construction field :rage3:
 - 🐍 Like Python and GraphQL 🌌
 
-### Links 🔗
+### 🔗 Links 
 
 
 <a href="https://t.me/dev_stvennica">![](https://img.shields.io/badge/Telegram-FFFFFF?style=for-the-badge&logo=telegram&logoWidth=0)</a>
