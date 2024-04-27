@@ -5,6 +5,8 @@
 
 ### Links 🔗
 
+
+<a href="https://t.me/dev_stvennica">![](https://img.shields.io/badge/Telegram-FFFFFF?style=for-the-badge&logo=telegram&logoWidth=0)</a>
 <a href="https://leetcode.com/vodkar/">![](https://img.shields.io/badge/LeetCode-FFFFFF?style=for-the-badge&logo=leetcode&logoWidth=0)</a>
 <a href="https://www.tiktok.com/@_vodkar">![TT](https://img.shields.io/badge/TikTok-FFFFFF?style=for-the-badge&logo=TikTok&logoWidth=0&logoColor=black)</a>
 
