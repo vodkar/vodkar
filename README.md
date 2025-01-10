@@ -10,6 +10,14 @@
 <a href="https://leetcode.com/vodkar/">![](https://img.shields.io/badge/LeetCode-FFFFFF?style=for-the-badge&logo=leetcode&logoWidth=0)</a>
 <a href="https://www.tiktok.com/@_vodkar">![TT](https://img.shields.io/badge/TikTok-FFFFFF?style=for-the-badge&logo=TikTok&logoWidth=0&logoColor=black)</a>
 
+### My speeches
+
+[Moscow Python Meetup №96. Ускорение обработки данных на Polars.](https://www.youtube.com/watch?v=4Ip4nyg1AT8)
+
+### My scientific articles
+
+[Characteristics and Trends of Zero-Day Vulnerabilities in Open-Source Code](https://www.researchgate.net/publication/384653628_Characteristics_and_Trends_of_Zero-Day_Vulnerabilities_in_Open-Source_Code)
+
 ### My books
 
 [Books](BOOKS.md)
