@@ -17,7 +17,9 @@
 ### My scientific articles
 
 [Characteristics and Trends of Zero-Day Vulnerabilities in Open-Source Code](https://www.researchgate.net/publication/384653628_Characteristics_and_Trends_of_Zero-Day_Vulnerabilities_in_Open-Source_Code)
+
 [Approach to Forming Vulnerability Datasets for Fine-Tuning AI Agents](https://www.researchgate.net/publication/391605969_Approach_to_Forming_Vulnerability_Datasets_for_Fine-Tuning_AI_Agents)
+
 [ОБЗОР МЕТОДОВ ОБНАРУЖЕНИЯ УЯЗВИМОСТЕЙ В ИСХОДНОМ КОДЕ С ИСПОЛЬЗОВАНИЕМ ИИ-АГЕНТОВ](https://elibrary.ru/item.asp?id=82747644&pff=1)
 
 ### My books collection to be read
